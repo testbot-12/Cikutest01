@@ -22,7 +22,7 @@
   "commandDisabled": [],
   "eventDisabled": [],
   "BOTNAME": "Ciku_Bby",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "ADMINBOT": [
     "100000436645880",
     ""
